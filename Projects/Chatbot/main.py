@@ -1,6 +1,6 @@
 def chatbot_response(user_input):
     response = { 
-            "hi" :"Hello! How can i help you?",
+            "hi":"Hello! How can i help you?",
             "bye":"Goodbye! Have a great day!",
             "how are you":"I'm just a bot,but i'am doind great. How can i help you :"
             }
