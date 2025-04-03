@@ -1,0 +1,4 @@
+print("Hello Yash ");
+
+def name(n)
+ print(n);
