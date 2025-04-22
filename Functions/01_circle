@@ -1,0 +1,11 @@
+import math
+
+radius = int(input("Enter num :"))
+def circle_stats(radius):
+	area = math.pi * radius  ** 2
+	circum = 2 * math.pi * radius 
+	return round(area,2),round(circum,2)
+
+a,c = circle_stats(radius)
+print("Area :",a,"Circumference:",c)
+ 
